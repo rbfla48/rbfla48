@@ -1,9 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&thema=tokyonight&height=300&section=header&text=Kyurim`s%Github&fontSize=70&fontColor=#000&fontAlign=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&theme=gruvbox&height=300&section=header&text=Kyurim`s%Github&fontSize=70&fontColor=#000&fontAlign=60"/>
 </div>
-
-
-
 
 <!--
 **rbfla48/rbfla48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
