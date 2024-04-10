@@ -1,4 +1,9 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Kyurim`s%Github%20render&fontSize=90" />
+</div>
+
+
+
 
 <!--
 **rbfla48/rbfla48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
